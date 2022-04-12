@@ -1,6 +1,8 @@
 ### About me 👋
 
-I'm an economist and data scientist with a passion for public policy, particularly local government finance and devolution, industrial strategy and urban economic development, using data analytics and visualisation tools to improve the public understanding of economics and economic data and to support policy-making and evaluation. I currently work in the Future Economies Research Centre at Manchester Metropolitan University where I'm the head of Future Economies Analytics, a dedicated data-science and analytics research unit within the wider centre. We work on making economic data policy- and business-relevant, providing bespoke presentations, analyses and custom-built data tools for public and private sector organisations, and keep our work in the open whenever we can.
+I'm an economist and data scientist with a passion for public policy, particularly local government finance and devolution, industrial strategy and urban economic development, using data analytics and visualisation tools to improve the public understanding of economics and economic data and to support policy-making and evaluation.
+
+I currently work in the Future Economies Research Centre at Manchester Metropolitan University where I'm the head of Future Economies Analytics, a dedicated data-science and analytics research unit within the wider centre. We work on making economic data policy- and business-relevant, providing bespoke presentations, analyses and custom-built data tools for public and private sector organisations, and keep our work in the open whenever we can.
 
 If you're interested in what we do, get in touch: we're always open to collaboration and knowledge sharing, as well as commerical research commissions.
 <!--
