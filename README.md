@@ -4,7 +4,9 @@ I'm an economist and data scientist with a passion for (and over 12 years experi
 
 I work in the Future Economies Research Centre at Manchester Metropolitan University where I'm head of economic data and analytics. We work on making economic data policy- and business-relevant, providing bespoke presentations, analyses and custom-built data tools for public and private sector organisations, and keep our work in the open whenever we can.
 
-If you're interested in what we do, get in touch: we're always open to collaboration and knowledge sharing, as well as commerical research commissions.
+In September 2022 I'm joining [Open Innovations](www.open-innovations.org) as their Economic Data Lead.
+
+If you're interested in what I do, get in touch: I'm always open to collaboration and knowledge sharing, as well as commercial research commissions.
 <!--
 **christianspence/christianspence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
