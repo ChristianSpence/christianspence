@@ -4,7 +4,7 @@ I'm an economist and data scientist with a passion for (and over 12 years experi
 
 I currently work in the Future Economies Research Centre at Manchester Metropolitan University where I'm head of economic data and analytics. We work on making economic data policy- and business-relevant, providing bespoke presentations, analyses and custom-built data tools for public and private sector organisations, and keep our work in the open whenever we can.
 
-In exciting news, in September 2022 I'm joining [Open Innovations](https://open-innovations.org) ([GitHub](https://github.com/open-innovations)) as their Economic Data Lead, where I will be providing additional capability their existing economics & productivity practice, amplifying their Economics Data Practice initially focusing on the Levelling Up and North England economic ambition themes.
+In exciting news, in September 2022 I'm joining [Open Innovations](https://open-innovations.org) ([GitHub](https://github.com/open-innovations)) as their Economic Data Lead, where I will be providing additional capability to their existing economics & productivity practice, amplifying their Economics Data Practice and initially focusing on the Levelling Up and North England economic ambition themes.
 
 If you're interested in what I do, get in touch: I'm always open to collaboration and knowledge sharing, as well as commercial research commissions.
 
