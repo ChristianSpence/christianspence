@@ -8,7 +8,7 @@ I've worked in local government, think tanks, business and academia and in Septe
 
 If you're interested in what I do, get in touch: I'm always open to collaboration and knowledge sharing, as well as commercial research commissions.
 
-You can find me tweeting at [@ChristianSpence](https://twitter.com/ChristianSpence) or on [LinkedIn](https://www.linkedin.com/in/christianspence).
+You can connect with me on [Twitter](https://twitter.com/ChristianSpence) and [LinkedIn](https://www.linkedin.com/in/christianspence).
 <!--
 **christianspence/christianspence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
