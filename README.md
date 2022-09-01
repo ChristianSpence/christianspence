@@ -4,9 +4,9 @@ I'm an economist and data scientist with a passion for (and over 12 years experi
 
 I work on making economic data policy- and business-relevant, providing bespoke presentations, analyses and custom-built data tools for public and private sector organisations, keeping my work in the open whenever I can.
 
-I've worked in local government, think tanks, business and academia and in September 2022 I'm joining [Open Innovations](https://open-innovations.org) ([GitHub](https://github.com/open-innovations)) as their Economic Data Lead, where I will be providing additional capability to their existing economics & productivity practice, amplifying their Economics Data Practice and initially focusing on the Levelling Up and North England economic ambition themes.
+I've worked in local government, think tanks, business and academia and from September 2022 I'm working with [Open Innovations](https://open-innovations.org) ([GitHub](https://github.com/open-innovations)) as their Economic Data Lead, providing additional capability to their existing economics & productivity data practice, and supporting their Levelling Up and North England economic ambition themes.
 
-If you're interested in what I do, get in touch: I'm always open to collaboration and knowledge sharing, as well as commercial research commissions.
+If you're interested in what I do, get in touch: I'm always open to collaboration and knowledge sharing, as well as commercial research commissions through my own consultancy, Economic Analytics.
 
 You can connect with me on [Twitter](https://twitter.com/ChristianSpence) and [LinkedIn](https://www.linkedin.com/in/christianspence).
 <!--
