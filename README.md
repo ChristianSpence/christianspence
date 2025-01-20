@@ -1,6 +1,6 @@
 ### About me 👋
 
-I'm an economist and data scientist with a passion for (and over 13 years' experience in) public policy, particularly local government finance and devolution, industrial strategy and urban economic development, using data analytics and visualisation tools to improve the public understanding of economics and economic data and to support policy-making and evaluation.
+I'm an economist and data scientist with a passion for (and over 15 years' experience in) public policy, particularly local government finance and devolution, industrial strategy and urban economic development, using data analytics and visualisation tools to improve the public understanding of economics and economic data and to support policy-making and evaluation.
 
 I work on making economic data policy- and business-relevant, providing bespoke presentations, analyses and custom-built data tools for public and private sector organisations, keeping my work in the open whenever I can.
 
